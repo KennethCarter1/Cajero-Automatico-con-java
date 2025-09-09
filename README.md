@@ -39,7 +39,7 @@ Este proyecto implementa un sistema de **Cajero Automático** desarrollado en Ja
 
 ### Versión 1.0
 
-Esta es la **primera versión** del sistema de Cajero Automático en Java. En esta versión inicial, se han implementado las funcionalidades básicas para operar con el cajero, como la consulta de saldo, retiros y depósitos. Además, el proyecto ha sido estructurado para facilitar futuras expansiones y mejoras.
+Esta es la **primera versión** del sistema de Cajero Automático en Java. En esta versión inicial, se han implementado las funcionalidades básicas para operar con el cajero, como la consulta de saldo, retiros y depósitos, utilizando una base de datos MySQL para gestionar la información de las cuentas.
 
 El objetivo de esta versión es servir como base sólida para el desarrollo de funcionalidades más avanzadas que se integrarán en proyectos futuros. Este es el primer proyecto de varios que están relacionados entre sí, formando un ecosistema completo para la gestión financiera de usuarios.
 
